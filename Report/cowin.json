@@ -1,0 +1,143 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Home Page",
+        "description": "",
+        "id": "user-find-the-vaccinee-availability;home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26748534900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Launch The Application Url",
+            "match": {
+              "location": "CowinStep.user_Launch_The_Application_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5229634000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Select The State",
+            "match": {
+              "location": "CowinStep.user_Select_The_State()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3314854300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Select The District",
+            "match": {
+              "location": "CowinStep.user_Select_The_District()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4073907300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user Click The Search",
+            "match": {
+              "location": "CowinStep.user_Click_The_Search()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1481296300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user Select The Age Group",
+            "match": {
+              "location": "CowinStep.user_Select_The_Age_Group()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 495185700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user Select The No Of Dose",
+            "match": {
+              "location": "CowinStep.user_Select_The_No_Of_Dose()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 429190800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user Select The Cost Of Dose",
+            "match": {
+              "location": "CowinStep.user_Select_The_Cost_Of_Dose()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 562111400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user Select The Vaccine",
+            "match": {
+              "location": "CowinStep.user_Select_The_Vaccine()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 866160200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Print The Availabe Center",
+            "match": {
+              "location": "CowinStep.user_Print_The_Availabe_Center()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3817774800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user Compare Selected Option are Showing",
+            "match": {
+              "location": "CowinStep.user_Compare_Selected_Option_are_Showing()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "User Find The Vaccinee Availability",
+    "description": "",
+    "id": "user-find-the-vaccinee-availability",
+    "keyword": "Feature",
+    "uri": "C:/Users/ELCOT/eclipse-workspace/Cowin/src/test/java/com/feature/Cowin.feature",
+    "tags": []
+  }
+]

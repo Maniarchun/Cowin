@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="47.029124">
+    <testcase classname="User Find The Vaccinee Availability" name="Home Page" time="47.029124">
+        <system-out><![CDATA[Given user Launch The Application Url.......................................passed
+When user Select The State..................................................passed
+And user Select The District................................................passed
+And user Click The Search...................................................passed
+And user Select The Age Group...............................................passed
+And user Select The No Of Dose..............................................passed
+And user Select The Cost Of Dose............................................passed
+And user Select The Vaccine.................................................passed
+And user Print The Availabe Center..........................................passed
+Then user Compare Selected Option are Showing...............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
